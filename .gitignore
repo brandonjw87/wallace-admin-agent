@@ -1,0 +1,43 @@
+﻿bin/
+obj/
+publish/
+*.user
+
+# build / IDE
+build/
+bin/
+obj/
+out/
+.gradle/
+.idea/
+.cxx/
+.kotlin/
+node_modules/
+*.apk
+*.aab
+*.exe
+*.msi
+*.pdb
+# secrets / machine-local
+local.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+.env*
+google-services.json
+config.json
+*PASSWORD*.txt
+client-key*
+# runtime data
+logs/
+backups/
+dev-config-backup/
+*.log
+status.json
+apply-result*.txt
+ipconfig*.txt
+*OpenDHCPServer*.ini
+roku-macs*.txt
+*.mmdb
